@@ -6,3 +6,6 @@ this is the first plugin
 ```
 
 ## example
+
+
+## command
